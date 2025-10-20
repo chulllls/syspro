@@ -1,0 +1,2 @@
+chap5/prob6/student.txt filter=lfs diff=lfs merge=lfs -text
+chap5/prob7/student.txt filter=lfs diff=lfs merge=lfs -text
